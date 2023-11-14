@@ -1,2 +1,1 @@
-OpenApiKey = "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"
-S2APIKEY = "bufivRwQsH4fD7iZ0OKEZ8yzkCrnY8wbZUfE1bnf"
+OpenApiKey = ""
